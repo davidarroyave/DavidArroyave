@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Juan Arroyave</h1>
 <h3 align="center">🤖 Artificial Intelligence Specialist with expertise in building end-to-end machine learning solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidarroyave&label=Profile%20views&color=25DBC7&style=flat" alt="Juan_Arroyave" /> </p>
+<a href="https://davidarroyave.github.io/">
+    <img src="https://raw.githubusercontent.com/davidarroyave/davidarroyave/main/AIdevcard_JuanArroyave.png" align="right" width="200" style="border-radius: 40%;" alt="Juan Arroyave's Dev Card" />
+</a>
 
-<div align="center" style="margin: 0 0;">
-  <a href="https://davidarroyave.github.io/">
-    <img src="https://raw.githubusercontent.com/davidarroyave/davidarroyave/main/AIdevcard_JuanArroyave.png" width="300" height="550" alt="Juan Arroyave's Dev Card" />
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidarroyave&label=Profile%20views&color=25DBC7&style=flat" alt="Juan_Arroyave" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
