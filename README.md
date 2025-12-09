@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Arroyave</h1>
 <h3 align="center">🤖 Artificial Intelligence Specialist with expertise in building end-to-end machine learning solutions.</h3>
 
-<a href="https://davidarroyave.github.io/">
+<a href="https://davidarroyave.github.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/davidarroyave/davidarroyave/main/AIdevcard_JuanArroyave.png" align="right" width="200" style="border-radius: 40%;" alt="Juan Arroyave's Dev Card" />
 </a>
 
